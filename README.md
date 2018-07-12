@@ -1,2 +1,2 @@
 # AdMob
-just edit the AdMob from Codelab tutorial 
+just testing the AdMob from Codelab tutorial 
